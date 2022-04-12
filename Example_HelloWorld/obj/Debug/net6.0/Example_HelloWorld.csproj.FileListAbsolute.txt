@@ -1,0 +1,15 @@
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\bin\Debug\net6.0\Example_HelloWorld.exe
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\bin\Debug\net6.0\Example_HelloWorld.deps.json
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\bin\Debug\net6.0\Example_HelloWorld.runtimeconfig.json
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\bin\Debug\net6.0\Example_HelloWorld.dll
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\bin\Debug\net6.0\Example_HelloWorld.pdb
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.csproj.AssemblyReference.cache
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.AssemblyInfoInputs.cache
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.AssemblyInfo.cs
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.csproj.CoreCompileInputs.cache
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.dll
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\refint\Example_HelloWorld.dll
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.pdb
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\Example_HelloWorld.genruntimeconfig.cache
+E:\РАЗРАБОТЧИК\C#\Example_HelloWorld\obj\Debug\net6.0\ref\Example_HelloWorld.dll
